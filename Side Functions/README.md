@@ -1,0 +1,1 @@
+These functions are meant to be used inside of the main functions. Not all of these are necessary for the main functions to work but there are also some functions tha can allow other type of analysis, such as which player has the higher number of played match
