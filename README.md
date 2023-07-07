@@ -3,6 +3,7 @@ Functions based on wyscout's data to categorize goals, scored and conceded
 Functions are not fully working, you can only find about 80% of the goals in a season and goals may not be categorized right.
 
 Available functions:
+
 - Penalty shot  ---> Find every penalty shot
   
 - Freekick shot  ---> Find every freekick that has been kicked to score directly
@@ -23,3 +24,6 @@ Available functions:
 - Positional attack  ---> Find every goal scored with a built action that has at least a certain amount of events before the goal
   
 - Goalkeeper's bounce  ---> Find every goal that happens after a goalkeeper's save with the ball still playable
+
+WYSCOUT GLOSSARY: https://dataglossary.wyscout.com/
+WYSCOUT API DOCS: https://apidocs.wyscout.com/
