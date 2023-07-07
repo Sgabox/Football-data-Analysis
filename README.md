@@ -4,7 +4,7 @@ Functions are not fully working, you can only find about 80% of the goals in a s
 
 Available functions:
 
-- Penalty shot  ---> Find every penalty shot
+- Penalty shot  ---> Find every penalty goal
   
 - Freekick shot  ---> Find every freekick that has been kicked to score directly
   
