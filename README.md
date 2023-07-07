@@ -27,3 +27,8 @@ Available functions:
 
 WYSCOUT GLOSSARY: https://dataglossary.wyscout.com/
 WYSCOUT API DOCS: https://apidocs.wyscout.com/
+
+TO USE MAIN FUNCTIONS YOU'LL NEED SOME SIDE FUNCTIONS, NOT ALL OF THEM. YOU CAN FIND THEM INSIDE THE PROPER FOLDER.
+
+There also alternative written functions that do the same work as the other but these are written based on SoccerAction package. Fucntions based on this package are slitly different from the original ones but the goal is the same. I've tried this package trying to cover the lack of the true functions but there is still the same problem of accuaracy.
+You can find SoccerAction based function inside their proper folder.
